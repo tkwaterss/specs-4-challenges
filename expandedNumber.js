@@ -1,0 +1,3 @@
+const expandedForm = num => {
+    
+}
